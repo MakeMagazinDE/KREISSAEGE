@@ -41,7 +41,8 @@ einem Schiebestock zugeführt oder festgehalten werden.**
 
 ### Anschlagwinkel 
 
-* 1x stabiler Flachwinkel ca. 20x20 cm, Stahlblech verzinkt  (Material aus Baumarkt)
+* 1x stabiler Flachwinkel ca. 20x20 cm, Stahlblech verzinkt 3mm (Material aus Baumarkt)
+* 1x Konstruktionswinkel ca. 20x20 cm, Stahlblech verzinkt 4mm (Material aus Baumarkt)
 * 1x Klemmhebel M6 (Material aus Baumarkt, Hornbach)
 * 1x Alu-Leiste 30 x 2 oder 3 mm (Material aus Baumarkt)
 * 2x Schlossschraube M6 x 12 (Material aus Baumarkt)
