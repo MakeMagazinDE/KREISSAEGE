@@ -7,11 +7,16 @@ Wer mehr als nur einmal Bleche, Platinen und Profile zuschneiden muss, braucht
 eine passende Maschine. Unser Bauvorschlag macht aus einem 45-Euro-
 Fliesenschneider eine präzise Kreissäge. 
 
+Bitte beachten Sie: Die Abmessungen einiger Teile sind von der Breite des 
+Maschinentischs abhängig. Gegebenenfalls ist die Konstruktion auf die jeweilige 
+Maschine anzupassen; dafür ist evt. zusätzliches oder weniger Material nötig. 
+Planen Sie großzügig - die Alu-profile sind nicht allzu teuer. Gute Kentnisse 
+der Metallbearbeitung sind vorteilhaft.
 
-**ACHTUNG:** Mehr noch als andere schnellaufende Werkzeuge birgt eine Kreissäge bei 
+**ACHTUNG: Mehr noch als andere schnellaufende Werkzeuge birgt eine Kreissäge bei 
 unsachgemäßer Handhabung erhebliche Gefahren. Eine Schutzbrille ist angesichts 
 umherfliegender heißer Alu-Späne oberstes Gebot. Kleine Teile dürfen nur mit 
-einem Schiebestock zugeführt oder festgehalten werden.
+einem Schiebestock zugeführt oder festgehalten werden.**
 
 ## Stückliste
 
@@ -24,7 +29,6 @@ einem Schiebestock zugeführt oder festgehalten werden.
 * 20x Innensechkantschrauben M5 x 12 (Material aus Baumarkt, Hornbach)
 * 10x Innensechkantschrauben M5 x 16 (Material aus Baumarkt, Hornbach)
 * 10x Innensechkantschrauben M6 x 12 (Material aus Baumarkt, Hornbach)
-
 * 1x Aluprofil 30 x 30 Nut 8, 40cm, http://www.alu-profil-technik.de/product_info.php/info/p3_aluprofil-30-x-30-nut-8.html 
 * 1x Aluprofil 30 x 60 Nut 8 B Raster, 50 cm, http://www.alu-profil-technik.de/product_info.php/info/p53_aluprofil-30-x-60-nut-8-b-raster.html
 * 2x Aluprofil 30 x 60 Nut 8 B Raster, 40cm*, http://www.alu-profil-technik.de/product_info.php/info/p53_aluprofil-30-x-60-nut-8-b-raster.html
@@ -37,7 +41,7 @@ einem Schiebestock zugeführt oder festgehalten werden.
 
 ### Anschlagwinkel 
 
-* 1x Flachwinkel ca. 20x20 cm, Stahlblech  (Material aus Baumarkt)
+* 1x stabiler Flachwinkel ca. 20x20 cm, Stahlblech verzinkt  (Material aus Baumarkt)
 * 1x Klemmhebel M6 (Material aus Baumarkt, Hornbach)
 * 1x Alu-Leiste 30 x 2 oder 3 mm (Material aus Baumarkt)
 * 2x Schlossschraube M6 x 12 (Material aus Baumarkt)
