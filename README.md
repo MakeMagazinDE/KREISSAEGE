@@ -13,6 +13,10 @@ Maschine anzupassen; dafür ist evt. zusätzliches oder weniger Material nötig.
 Planen Sie großzügig - die Alu-profile sind nicht allzu teuer. Gute Kentnisse 
 der Metallbearbeitung sind vorteilhaft.
 
+Die Konstruktion wurde mit dem kostenlosen 3D-CAD-Programm DesignSpark Mechanical 
+erstellt (Datei .rsdoc). Zusätzlich sind die wichtigsten Schritte und Bemaßungen 
+auch noch als Bilder (PNG) abgelegt.
+
 **ACHTUNG: Mehr noch als andere schnellaufende Werkzeuge birgt eine Kreissäge bei 
 unsachgemäßer Handhabung erhebliche Gefahren. Eine Schutzbrille ist angesichts 
 umherfliegender heißer Alu-Späne oberstes Gebot. Kleine Teile dürfen nur mit 
@@ -37,7 +41,7 @@ einem Schiebestock zugeführt oder festgehalten werden.**
 * 1x Alu L-Profil/Winkel 030x020x04mm, 50cm lang, http://www.metall-kunststoffhandel.de/shop/aluminium-winkel-030x020x04-p-784.html?osCsid=bd20f6334a8eccbf335740a64864e1ff
 * 1x Rechteckprofil 50x30x3mm, 40cm* http://www.metall-kunststoffhandel.de/shop/aluminium-vierkantrohr-050x030x03-p-893.html?osCsid=bd20f6334a8eccbf335740a64864e1ff
 
-(* Abhängig von Breite des Maschinentischs)
+(* Abhängig von Breite des Maschinentischs!)
 
 ### Anschlagwinkel 
 
